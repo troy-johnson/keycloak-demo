@@ -1,6 +1,5 @@
 {
   "name": "login-app",
-  "homepage" : "https://troy-johnson.github.io/keycloak-demo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
