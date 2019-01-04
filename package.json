@@ -1,5 +1,6 @@
 {
   "name": "login-app",
+  "homepage" : "http://troy-johnson.github.io/login-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
